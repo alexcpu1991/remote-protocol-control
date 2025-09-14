@@ -16,7 +16,7 @@
 // === Log level ===
 
 /** Default log level for the RPC system */
-#define RPC_LOG_LEVEL    RPC_LOG_LEVEL_DEBUG
+#define RPC_LOG_LEVEL    RPC_LOG_LEVEL_INFO
 
 
 // === Function Configuration ===

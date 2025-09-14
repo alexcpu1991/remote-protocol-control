@@ -53,3 +53,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# ========================
+# Project-specific ignores
+# ========================
+
+# CMake build directories
+examples/build/
